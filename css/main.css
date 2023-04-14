@@ -1,6 +1,46 @@
 .nav-menu {
   text-align: right;
 }
-  .nav-spacing {
+
+.nav-spacing {
   margin: 0 0 0 10px;
+}
+
+.image-link {
+  text-decoration:  none;
+}
+
+.sperm-whales-image {
+  display: block;
+  margin: 0 auto;
+}
+
+.report-background {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+
+.moby-dick-image {
+  height: 200px;
+  float: left;
+  margin-right: 40px;
+}
+
+.moby-dick-quote {
+  font-style: italic;
+  font-size: 20px;
+}
+
+.start-moby-dick-quote {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ccc;
+}
+
+.lincoln-quote {
+  padding: 2px 20px;
+  background: #eee;
 }
